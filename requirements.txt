@@ -1,1 +1,1 @@
-#no external packages
+requests==2.31.0
